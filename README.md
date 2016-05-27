@@ -1,2 +1,2 @@
 # arte.js
-Smart, fast and simple javascript template engine
+Smart, fast and simple javascript template engine.
